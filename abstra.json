@@ -1,0 +1,23 @@
+{
+  "name": "repo-070",
+  "version": "1.0.0",
+  "description": "基础 Abstra 项目实现",
+  "main": "main.py",
+  "forms": [
+    {
+      "id": "main",
+      "file": "main.py",
+      "title": "主页面",
+      "path": "/"
+    },
+    {
+      "id": "example",
+      "file": "src/forms/example.py",
+      "title": "示例功能",
+      "path": "/example"
+    }
+  ],
+  "hooks": [],
+  "jobs": [],
+  "tables": []
+}
